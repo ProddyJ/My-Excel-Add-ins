@@ -1,6 +1,29 @@
-[
-  {
-    "username": "All",
-    "expires": "2025-12-25"
-  }
-]
+{
+  "projects": [
+    {
+      "name": "OrderVelocity",
+      "authorizedUsers": ["cabrals", "vasolij"],
+      "expires": "2025-12-25"
+    },
+    {
+      "name": "StevensMacroHub",
+      "authorizedUsers": "cabrals",
+      "expires": "2025-12-31"
+    },
+    {
+      "name": "WOSummaryLookup",
+      "authorizedUsers": "cabrals",
+      "expires": "2025-12-24"
+    },
+    {
+      "name": "MasterScheduler",
+      "authorizedUsers": "cabrals",
+      "expires": "2025-12-24"
+    },
+    {
+      "name": "MPS",
+      "authorizedUsers": "cabrals",
+      "expires": "2025-12-24"
+    }
+  ]
+}
