@@ -7,22 +7,22 @@
     },
     {
       "name": "StevensMacroHub",
-      "authorizedUsers": "cabrals",
+      "authorizedUsers": ["cabrals"],
       "expires": "2025-12-31"
     },
     {
       "name": "WOSummaryLookup",
-      "authorizedUsers": "cabrals",
+      "authorizedUsers": ["cabrals"],
       "expires": "2025-12-24"
     },
     {
       "name": "MasterScheduler",
-      "authorizedUsers": "cabrals",
+      "authorizedUsers": ["cabrals"],
       "expires": "2025-12-24"
     },
     {
       "name": "MPS",
-      "authorizedUsers": "cabrals",
+      "authorizedUsers": ["cabrals"],
       "expires": "2025-12-24"
     }
   ]
