@@ -24,6 +24,11 @@
       "name": "MPS",
       "authorizedUsers": ["cabrals"],
       "expires": "2025-12-24"
+    },
+    {
+      "name": "Forecast",
+      "authorizedUsers": ["cabrals"],
+      "expires": "2025-12-30"
     }
   ]
 }
