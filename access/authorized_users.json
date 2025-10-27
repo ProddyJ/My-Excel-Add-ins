@@ -39,6 +39,12 @@
       "name": "CapacityModule",
       "authorizedUsers": [""],
       "expires": "2026-1-30"
+    },
+    {
+      "name": "ForecastCreation",
+      "authorizedUsers": [""],
+      "expires": "2026-1-30"
     }
+    
   ]
 }
