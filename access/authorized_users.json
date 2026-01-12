@@ -18,7 +18,7 @@
     {
       "name": "MasterScheduler",
       "authorizedUsers": [""],
-      "expires": "2026-1-30"
+      "expires": "2026-12-30"
     },
     {
       "name": "MPS",
@@ -48,6 +48,11 @@
     {
       "name": "ForecastCreation",
       "authorizedUsers": [""],
+      "expires": "2026-12-30"
+    },
+    {
+      "name": "ExportTemplate",
+      "authorizedUsers": ["COSGRAVET","KELLYLI","HOOVERA", "VASOLIJ"],
       "expires": "2026-12-30"
     }
     
