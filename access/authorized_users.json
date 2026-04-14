@@ -3,57 +3,57 @@
     {
       "name": "OrderVelocity",
       "authorizedUsers": ["", ""],
-      "expires": "2026-12-30"
+      "expires": "2027-12-30"
     },
     {
       "name": "StevensMacroHub",
       "authorizedUsers": [""],
-      "expires": "2026-12-30"
+      "expires": "2027-12-30"
     },
     {
       "name": "WOSummaryLookup",
       "authorizedUsers": [""],
-      "expires": "2026-12-30"
+      "expires": "2027-12-30"
     },
     {
       "name": "MasterScheduler",
       "authorizedUsers": [""],
-      "expires": "2026-12-30"
+      "expires": "2027-12-30"
     },
     {
       "name": "MPS",
       "authorizedUsers": [""],
-      "expires": "2026-12-30"
+      "expires": "2027-12-30"
     },
     {
       "name": "ACH",
       "authorizedUsers": [""],
-      "expires": "2026-12-30"
+      "expires": "2027-12-30"
     },
     {
       "name": "Forecast",
       "authorizedUsers": [""],
-      "expires": "2026-12-30"
+      "expires": "2027-12-30"
     },
     {
       "name": "CapacityModule",
       "authorizedUsers": [""],
-      "expires": "2026-12-30"
+      "expires": "2027-12-30"
     },
      {
       "name": "AuditBaseBody",
       "authorizedUsers": [""],
-      "expires": "2026-12-30"
+      "expires": "2027-12-30"
     },
     {
       "name": "ForecastCreation",
       "authorizedUsers": [""],
-      "expires": "2026-12-30"
+      "expires": "2027-12-30"
     },
     {
       "name": "ExportTemplate",
       "authorizedUsers": ["COSGRAVET","KELLYLI","HOOVERA", "VASOLIJ"],
-      "expires": "2026-12-30"
+      "expires": "2027-12-30"
     }
     
   ]
