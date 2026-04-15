@@ -3,57 +3,101 @@
     {
       "name": "OrderVelocity",
       "authorizedUsers": ["", ""],
-      "expires": "2027-12-30"
+      "expires": "2027-12-30",
+      "addinReady": true,
+      "allowForAll": true,
+      "version": "1.0.0",
+      "versionUpgradeRequired": false
     },
     {
       "name": "StevensMacroHub",
       "authorizedUsers": [""],
-      "expires": "2027-12-30"
+      "expires": "2027-12-30",
+      "addinReady": true,
+      "allowForAll": true,
+      "version": "1.0.0",
+      "versionUpgradeRequired": false
     },
     {
       "name": "WOSummaryLookup",
       "authorizedUsers": [""],
-      "expires": "2027-12-30"
+      "expires": "2027-12-30",
+      "addinReady": false,
+      "allowForAll": true,
+      "version": "1.0.0",
+      "versionUpgradeRequired": false
     },
     {
       "name": "MasterScheduler",
       "authorizedUsers": [""],
-      "expires": "2027-12-30"
+      "expires": "2027-12-30",
+      "addinReady": false,
+      "allowForAll": true,
+      "version": "1.0.0",
+      "versionUpgradeRequired": false
     },
     {
       "name": "MPS",
       "authorizedUsers": [""],
-      "expires": "2027-12-30"
+      "expires": "2027-12-30",
+      "addinReady": false,
+      "allowForAll": true,
+      "version": "1.0.0",
+      "versionUpgradeRequired": false
     },
     {
       "name": "ACH",
       "authorizedUsers": [""],
-      "expires": "2027-12-30"
+      "expires": "2027-12-30",
+      "addinReady": false,
+      "allowForAll": true,
+      "version": "1.0.0",
+      "versionUpgradeRequired": false
     },
     {
       "name": "Forecast",
       "authorizedUsers": [""],
-      "expires": "2027-12-30"
+      "expires": "2027-12-30",
+      "addinReady": false,
+      "allowForAll": true,
+      "version": "1.0.0",
+      "versionUpgradeRequired": false
     },
     {
       "name": "CapacityModule",
       "authorizedUsers": [""],
-      "expires": "2027-12-30"
+      "expires": "2027-12-30",
+      "addinReady": false,
+      "allowForAll": true,
+      "version": "1.0.0",
+      "versionUpgradeRequired": false
     },
      {
       "name": "AuditBaseBody",
       "authorizedUsers": [""],
-      "expires": "2027-12-30"
+      "expires": "2027-12-30",
+      "addinReady": false,
+      "allowForAll": true,
+      "version": "1.0.0",
+      "versionUpgradeRequired": false
     },
     {
       "name": "ForecastCreation",
       "authorizedUsers": [""],
-      "expires": "2027-12-30"
+      "expires": "2027-12-30",
+      "addinReady": false,
+      "allowForAll": true,
+      "version": "1.0.0",
+      "versionUpgradeRequired": false
     },
     {
       "name": "ExportTemplate",
       "authorizedUsers": ["COSGRAVET","KELLYLI","HOOVERA", "VASOLIJ"],
-      "expires": "2027-12-30"
+      "expires": "2027-12-30",
+      "addinReady": true,
+      "allowForAll": true,
+      "version": "1.0.0",
+      "versionUpgradeRequired": false
     }
     
   ]
